@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vite/
+.visual-baseline/
+test-results/
+playwright-report/
+package-lock.json
+docs/quests/

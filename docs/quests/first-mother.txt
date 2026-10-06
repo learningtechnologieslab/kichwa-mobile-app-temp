@@ -1,0 +1,245 @@
+START
+
+You are a child of the First Mother, standing beside all of her other children. The First Mother commands, "Kids, come here. I am going to send each of you to a different place". You see that she has black paint and white clay to paint each of you with.
+
+(USER PRESSES "NEXT")
+
+Many of the children cry out, "Mom, where are you sending us?". She responds, "I am the one who knows where to send you". The First Mother begins transforming her children into animals and sending them off.
+
+Choose your animal:
+[Multiple Choice Selector]
+Toucan
+Monkey
+Squirrel
+Snail
+Crab
+Woodpecker
+Turtle
+
+
+
+
+
+TOUCAN
+
+The First Mother paints you with white and red clay. She says, "Now you will become the sikwanga (meaning "toucan"). Go sing in that tree! Otherwise you may go across the sea". She throws you up into the air and you spring to life in your new form. She says, "Now you will all live in the forest. Now you will have to live looking for your own food. From now on, your food will be different. You will no longer eat with me".
+
+(USER PRESSES "NEXT")
+
+Toucan Quests 1/3
+What is the Kichwa word for "toucan"?
+[Multiple Choice Selector]
+A. charapa
+B. sikwanga
+C. apangura
+[Correct answer: B]
+
+Toucan Quests 2/3
+"Sikwanga muyuta mikun." means "The toucan eats fruit."
+Record yourself saying: "Sikwanga muyuta mikun. The toucan eats fruit."
+[User records audio and submits]
+
+Toucan Quests 3/3
+A "muyu" is a seed or fruit.
+Find and take a picture of muyu.
+[User takes picture and submits]
+
+(USER PRESSES "NEXT", GO TO ENDING)
+
+
+
+
+
+
+MONKEY
+
+The First Mother paints you black and says "Now go! I am going to be left alone". You begin to sikana (meaning "to climb") up a tree and jump. She says, "Now you will all live in the forest. Now you will have to live looking for your own food. From now on, your food will be different. You will no longer eat with me".
+
+(USER PRESSES "NEXT")
+
+Monkey Quests 1/3
+What is the Kichwa word for "to climb"?
+[Multiple Choice Selector]
+A. sikana
+B. waytana
+C. puñuna
+[Correct answer: A]
+
+Monkey Quests 2/3
+"Sikani." means "I climb."
+Record yourself saying: "Sikani. I climb."
+[User records audio and submits]
+
+Monkey Quests 3/3
+A "waska" is a vine or rope.
+Find and take a picture of waska.
+[User takes picture and submits]
+
+(USER PRESSES "NEXT", GO TO ENDING)
+
+
+
+
+
+SQUIRREL
+
+The First Mother says, "You come here". She paints you and sends you off. "You will look for muyu (meaning "seed/fruit") or nuts to eat. What hard nuts you will live eating!". You go away crying to your mother. She says, "Now you will all live in the forest. Now you will have to live looking for your own food. From now on, your food will be different. You will no longer eat with me".
+
+(USER PRESSES "NEXT")
+
+Squirrel Quests 1/3
+What is the Kichwa word for "seed/fruit"?
+[Multiple Choice Selector]
+A. muyu
+B. yaku
+C. panga
+[Correct answer: A]
+
+Squirrel Quests 2/3
+"Lomocha muyuta mikun." means "The squirrel eats seed/fruit."
+Record yourself saying: "Lomocha muyuta mikun. The squirrel eats seed/fruit."
+[User records audio and submits]
+
+Squirrel Quests 3/3
+"allpa" means dirt or earth.
+Find and take a picture of allpa.
+[User takes picture and submits]
+
+(USER PRESSES "NEXT", GO TO ENDING)
+
+
+
+
+
+
+SNAIL
+
+The First Mother says, "Come here". She puts you inside metal shells. "Now you will all go live in the water," she says. She releases you into the water, where you move alimanda (meaning "slowly"). She says, "Now you will all live in the forest. Now you will have to live looking for your own food. From now on, your food will be different. You will no longer eat with me".
+
+(USER PRESSES "NEXT")
+
+Snail Quests 1/3
+What is the Kichwa word for "slowly"?
+[Multiple Choice Selector]
+A. ukta
+B. alimanda
+C. chunlla
+[Correct answer: B]
+
+Snail Quests 2/3
+"Alimanda purini." means "I walk slowly."
+Record yourself saying: "Alimanda purini. I walk slowly."
+[User records audio and submits]
+
+Snail Quests 3/3
+A "panga" is a leaf.
+Find and take a picture of panga.
+[User takes picture and submits]
+
+(USER PRESSES "NEXT", GO TO ENDING)
+
+
+
+
+
+
+CRAB
+
+You come to the First Mother and say, "Mom. Where will my house keep things? You called me here. What will I eat?". She says, "You will live looking for food in the water". You are released into the water and become an apangura (meaning "Amazonian river crab"). She says, "Now you will all live in the forest. Now you will have to live looking for your own food. From now on, your food will be different. You will no longer eat with me".
+
+(USER PRESSES "NEXT")
+
+Crab Quests 1/3
+What is the Kichwa word for "Amazonian river crab"?
+[Multiple Choice Selector]
+A. sikwanga
+B. apangura
+C. charapa
+[Correct answer: B]
+
+Crab Quests 2/3
+"Apangura yakui kawsan." means "The river crab lives in water."
+Record yourself saying: "Apangura yakui kawsan. The river crab lives in water."
+[User records audio and submits]
+
+Crab Quests 3/3
+"yaku" means water.
+Find and take a picture of yaku.
+[User takes picture and submits]
+
+(USER PRESSES "NEXT", GO TO ENDING)
+
+
+
+
+
+
+WOODPECKER
+
+The First Mother says to you, "Hurry! Come! You are a strong guy". She paints you beautifully and says "Now go! You are stronger than anyone else". She throws you up into the air toward a ruya (meaning "tree"), and you go off. She says, "Now you will all live in the forest. Now you will have to live looking for your own food. From now on, your food will be different. You will no longer eat with me".
+
+(USER PRESSES "NEXT")
+
+Woodpecker Quests 1/3
+What is the Kichwa word for "tree"?
+[Multiple Choice Selector]
+A. yaku
+B. panga
+C. ruya
+[Correct answer: C]
+
+Woodpecker Quests 2/3
+"Ruyata takan." means "It taps/pecks the tree."
+Record yourself saying: "Ruyata takan. It taps/pecks the tree."
+[User records audio and submits]
+
+Woodpecker Quests 3/3
+"kara" means bark.
+Find a tree and take a picture of kara.
+[User takes picture and submits]
+
+(USER PRESSES "NEXT", GO TO ENDING)
+
+
+
+
+
+
+
+TURTLE
+
+The First Mother takes her time painting you, and then sends you off. You go downriver and become a charapa (meaning "turtle"). She says, "Now you will all live in the forest. Now you will have to live looking for your own food. From now on, your food will be different. You will no longer eat with me".
+
+(USER PRESSES "NEXT")
+
+Turtle Quests 1/3
+What is the Kichwa word for "turtle"?
+[Multiple Choice Selector]
+A. charapa
+B. kushillu
+C. apangura
+[Correct answer: A]
+
+Turtle Quests 2/3
+"Charapa yakui kawsan." means "The turtle lives in water."
+Record yourself saying: "Charapa yakui kawsan. The turtle lives in water."
+[User records audio and submits]
+
+Turtle Quests 3/3
+A "yaku" is water.
+Find and take a picture of yaku.
+[User takes picture and submits]
+
+(USER PRESSES "NEXT", GO TO ENDING)
+
+
+
+
+
+ENDING
+
+The First Mother now says, "What shall I become? Now I have sent off all my children. Now who will I live with? I will live inside a hole in the Earth. I will just go to look for a mountain, and as I look for a way into the mountain I will find a hole. And when I find it I will stay in there becoming a Tayag, someone who now lives inside the Earth".
+
+Thus, when she had sent all her children away and she was left alone, she went to sit inside a hole in the earth. 
+
+(QUEST COMPLETED)
